@@ -1,0 +1,2 @@
+grounding_dino/weights/groundingdino_swint_ogc.pth filter=lfs diff=lfs merge=lfs -text
+grounding_dino/weights/groundingdino_swinb_cogcoor.pth filter=lfs diff=lfs merge=lfs -text
